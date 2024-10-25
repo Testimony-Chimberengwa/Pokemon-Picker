@@ -1,0 +1,8 @@
+.container, .image-conatiner {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    
+  }
+  h1{
+    text-align: center;
+  }
